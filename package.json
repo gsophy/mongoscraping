@@ -1,0 +1,20 @@
+{
+  "name": "mongoscraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsophy/mongoscraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsophy/mongoscraping/issues"
+  },
+  "homepage": "https://github.com/gsophy/mongoscraping#readme"
+}
